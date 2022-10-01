@@ -91,7 +91,7 @@ layout: iframe-right
 url: https://www.satoryu.com/business/
 ---
 
-# 個人事業主をしています。
+# 個人事業主、してます
 
 - Webアプリケーションの開発
 - プログラミング学習の支援
@@ -112,6 +112,10 @@ url: https://hololab.co.jp/
 ---
 
 [![](https://hololab.co.jp/assets/img/common/logo.svg)](https://hololab.co.jp/)
+
+<!--
+
+-->
 
 ---
 layout: image-right
@@ -142,7 +146,7 @@ image: /dajare-bot.png
 
 # 個人事業主や
 # XRの会社で
-# プログラミングしている
+# プログラミングしながら
 # アリを飼育している
 # 駄洒落大好きおじさん
 
@@ -514,6 +518,7 @@ Photo by <a href="https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_me
 
 - 例: スクラム
   - 膨らむ
+  - すくむ
   - シクラメン
 - 例: XP
   - えっ？薬ー？
@@ -534,10 +539,15 @@ Photo by <a href="https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_me
 </v-clicks>
 
 ---
+layout: image-right
+image: https://source.unsplash.com/cBvOn9QwPXc
+---
 
 # 気をつけること
 
 - 優越や差別につながる内容にしない
+- 面白いものは作れない
+  - 数多くこなすこと
 
 ---
 layout: section
@@ -555,6 +565,20 @@ layout: section
 - 笑いを作る方法として駄洒落を紹介
 
 ---
+layout: image-right
+image: https://source.unsplash.com/P5MXtYfgmmw
+---
+
+## いいチームを作るために、
+## もっと笑いを。
+
+<BottomRightCaption>
+
+Photo by <a href="https://unsplash.com/@nate_dumlao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nathan Dumlao</a> on <a href="https://unsplash.com/s/photos/laughing-people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</BottomRightCaption>
+
+---
 layout: section
 ---
 
@@ -565,4 +589,3 @@ layout: center
 ---
 
 ![高倉剣「自分、武器用ですから」](/my-best-dajare.png)
-
