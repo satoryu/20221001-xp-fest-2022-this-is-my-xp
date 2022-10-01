@@ -39,6 +39,30 @@ Tatsuya Sato (satoryu)
 layout: section
 ---
 
+# みなさん、
+# XP
+# してますか〜
+
+---
+layout: section
+---
+
+# みなさん、
+# eXtreme Punning
+# してますか〜
+
+---
+layout: section
+---
+
+# Punning
+# =
+# 駄洒落
+
+---
+layout: section
+---
+
 # 「で、お前誰よ？」
 
 自己紹介
@@ -114,6 +138,13 @@ image: /dajare-bot.png
 - 趣味で駄洒落をつぶやいたり
 - 駄洒落を生成するボットを作ったり
 
+---
+
+# 個人事業主や
+# XRの会社で
+# プログラミングしている
+# アリを飼育している
+# 駄洒落大好きおじさん
 
 ---
 layout: section
@@ -126,7 +157,8 @@ layout: image-right
 image: https://source.unsplash.com/P5MXtYfgmmw
 ---
 
-# もっとチームに笑いを
+## いいチームを作るために、
+## もっと笑いを。
 
 <BottomRightCaption>
 
@@ -180,10 +212,17 @@ layout: section
 ### 何かしらヒトの生存に寄与してきたはず
 
 ---
-layout: section
+layout: image
+image: https://source.unsplash.com/fs6NPHYMN7o
 ---
 
 # 類人猿も笑う
+
+<BottomRightCaption>
+
+Photo by <a href="https://unsplash.com/@rishiragunathan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rishi Ragunathan</a> on <a href="https://unsplash.com/s/photos/chimpanzee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</BottomRightCaption>
 
 ---
 layout: two-cols
@@ -237,7 +276,7 @@ image: https://images-na.ssl-images-amazon.com/images/I/41n-AIcZH7L._SX355_BO1,2
 - 例
   - 短期記憶の改善
   - 免疫におけるNK細胞の増加
-  - 上記いずれも、大きな声を伴う笑いにより見られる
+  - いずれも、大笑いにより見られる現象
 
 ---
 
@@ -363,7 +402,7 @@ layout: statement
 ---
 
 # いいチームを作るために、
-# 笑いが大切では。
+# もっと笑いを。
 
 ---
 
@@ -417,10 +456,17 @@ layout: statement
 - 意味的に遠い言葉を用いることで、不調和を作り出す
 
 ---
-layout: section
+layout: image
+image: https://source.unsplash.com/9OKGEVJiTKk
 ---
 
 # 自分の駄洒落のつくり方
+
+<BottomRightCaption>
+
+Photo by <a href="https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jo Szczepanska</a> on <a href="https://unsplash.com/s/photos/diy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+</BottomRightCaption>
 
 ---
 
@@ -428,16 +474,95 @@ layout: section
 
 - オンラインカンファレンスなどのテキストチャット
 - 参加者が発表で気になった言葉や思ったことがたくさん書き込まれている
+- 同じカンファレンス、セッションという共通の概念が作られやすい
 
 ---
 
 # 手順
 
 1. キーワードを見つける
-2. そのキーワードの音韻を抜き出す
+2. キーワードの音韻、リズムを見つける
 3. 音韻の全体、または部分から連想する言葉を見つける
-4. 元のキーワードを含む文章に連想した言葉を置き換える
+4. 元のキーワードを含む文章を作り、連想した言葉を置き換える
+
+---
+
+# キーワードを見つける
+
+- セッションの中で、参加者が重要だと感じている言葉を見つける
+- テキストチャットに現れる言葉を拾う
+
+---
+
+# キーワードの音韻、リズムを見つける
+
+- 音韻、リズムを見つける
+- 母音だけにして読んでみる。
+- 例
+  - 「スクラム」なら「ううあう」
+  - 「XP」なら「えっうういい」
+
+---
+
+# 音韻の全体、または部分から連想する言葉を見つける
+
+- 元のキーワードとは異なる言葉を音韻から連想する
+- 音韻全体と部分を使う
+- 少し逸脱することを許容する
+
+<v-clicks>
+
+- 例: スクラム
+  - 膨らむ
+  - シクラメン
+- 例: XP
+  - えっ？薬ー？
+
+</v-clicks>
+---
+
+# 元のキーワードを含む文章を作り、連想した言葉を置き換える
+
+<v-clicks>
+
+## 例: スクラム
+
+- 膨らむガイド
+- 期待膨らむスクラムガイド
+- スクラムの導入に足がすくむ
+
+</v-clicks>
 
 ---
 
 # 気をつけること
+
+- 優越や差別につながる内容にしない
+
+---
+layout: section
+---
+
+# まとめ
+
+---
+
+# まとめ
+
+- 笑いの理論を紹介
+  - 笑いがもたらす効果
+- 普段の活動での笑いの提案
+- 笑いを作る方法として駄洒落を紹介
+
+---
+layout: section
+---
+
+# 最後に
+
+---
+layout: center
+---
+
+![高倉剣「自分、武器用ですから」](/my-best-dajare.png)
+
